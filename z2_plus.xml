@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
 		<z2_plus>
-			<Filename>RR-N-v5.8.4-20170824-z2_plus-Official.zip</Filename>
+			<Filename>RR-N-v5.8.4-20170807-z2_plus-Official.zip</Filename>
 			<RomUrl id="rom" title="下载ROM" description="下载 ResurrectionRemix ROM">https://sourceforge.net/projects/resurrectionremix/files/zuk_z2/</RomUrl>
 			<ChangelogUrl id="changelog" title="更新日志" description="查看 ResurrectionRemix 更新日志">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
 			<XDAUrl id="xda" title="浏览XDA" description="在XDA上浏览 ResurrectionRemix ROM">https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-zuk-z2-plus-t3596812</XDAUrl>
